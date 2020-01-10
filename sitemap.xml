@@ -5,28 +5,28 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>https://lgaying.github.io/Maverick-UTaidu/about/</loc>
+    <loc>https://utaidu.work/about/</loc>
     <lastmod>2020-01-01</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
 </url>
 
 <url>
-    <loc>https://lgaying.github.io/Maverick-UTaidu/archives/Python风格规范/</loc>
+    <loc>https://utaidu.work/archives/Python风格规范/</loc>
     <lastmod>2020-01-01</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>https://lgaying.github.io/Maverick-UTaidu/archives/挑战一个俯卧撑/</loc>
+    <loc>https://utaidu.work/archives/挑战一个俯卧撑/</loc>
     <lastmod>2020-01-01</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>https://lgaying.github.io/Maverick-UTaidu/archives/无题/</loc>
+    <loc>https://utaidu.work/archives/无题/</loc>
     <lastmod>2020-01-01</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
