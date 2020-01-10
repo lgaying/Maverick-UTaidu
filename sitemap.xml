@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
+
+<url>
+    <loc>https://utaidu.workabout/</loc>
+    <lastmod>2020-01-01</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+</url>
+
+<url>
+    <loc>https://utaidu.workarchives/Python风格规范/</loc>
+    <lastmod>2020-01-01</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>https://utaidu.workarchives/挑战一个俯卧撑/</loc>
+    <lastmod>2020-01-01</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>https://utaidu.workarchives/无题/</loc>
+    <lastmod>2020-01-01</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+</urlset>
