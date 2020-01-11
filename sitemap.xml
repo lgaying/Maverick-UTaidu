@@ -12,8 +12,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>https://utaidu.work/archives/遍历列表－for循环/</loc>
+    <lastmod>2020-01-10</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>https://utaidu.work/archives/人性的弱点--读书笔记/</loc>
+    <lastmod>2020-01-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>https://utaidu.work/archives/列表中元素的排序/</loc>
+    <lastmod>2020-01-08</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>https://utaidu.work/archives/列表的索引及使用方法/</loc>
-    <lastmod>2020-01-02</lastmod>
+    <lastmod>2020-01-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>https://utaidu.work/archives/字符串的一些方法/</loc>
+    <lastmod>2020-01-03</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
